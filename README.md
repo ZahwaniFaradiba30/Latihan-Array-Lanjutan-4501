@@ -12,11 +12,11 @@ Repository ini berisi latihan dasar penggunaan Array dalam JavaScript, meliputi 
 
 ## Daftar Latihan
 
-- Soal 1 — Membuat Array
-- Soal 2 — Mengakses Elemen Array
-- Soal 3 — Mengubah Elemen Array
-- Soal 4 — Menggunakan Properti length
-- Soal 5 — Studi Kasus Data Siswa
+- Soal 1 — Antrean Siswa
+- Soal 2 — Daftar Buku
+- Soal 3 — Pencarian Peserta
+- Soal 4 — Pengolahan Nilai
+- Soal 5 — Perlengkapan Kelas
 
 ## Cara Menjalankan Program
 
